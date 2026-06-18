@@ -2,7 +2,11 @@
 
 A Python-based financial dashboard that visualizes monthly financial performance including revenue, expenses, net profit, and expense category analysis.
 
+
 ## Dashboard Preview
+
+### KPI Summary
+![KPI Metrics](kpi%20keys.png)
 
 ### Monthly Dashboard
 ![Monthly Dashboard](Monthly%20data.png)
@@ -15,9 +19,6 @@ A Python-based financial dashboard that visualizes monthly financial performance
 
 ### Expense Category Breakdown
 ![Expense Category](expense%20category%20Breakdown.png)
-
-### KPI Summary
-![KPI Metrics](kpi%20keys.png)
 
 ## Key Metrics
 - Revenue Analysis
