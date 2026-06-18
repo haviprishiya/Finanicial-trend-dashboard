@@ -3,43 +3,44 @@
 A Python-based financial dashboard that visualizes monthly financial performance including revenue, expenses, net profit, and expense category analysis.
 
 ## Dashboard Preview
-![Dashboard Preview](Monthly%20data.png)
+
+### Monthly Dashboard
+![Monthly Dashboard](Monthly%20data.png)
+
+### Monthly Revenue vs Expense
+![Revenue vs Expense](Monthly%20revenue%20vs%20Expense.png)
+
+### Monthly Net Profit
+![Monthly Net Profit](Monthly%20Net%20profit.png)
+
+### Expense Category Breakdown
+![Expense Category](expense%20category%20Breakdown.png)
+
+### KPI Summary
+![KPI Metrics](kpi%20keys.png)
 
 ## Key Metrics
-- Total Monthly Revenue
-- Total Monthly Expenses
-- Net Profit Analysis
-- Expense Category Breakdown
-- Revenue vs Expense Comparison
-- Monthly Financial Trends
-
-## Visualizations
-- Monthly Revenue vs Expense chart
-- Monthly Net Profit analysis
-- Expense Category Breakdown
-- KPI Summary cards
-- Financial trend insights
+- Revenue Analysis
+- Expense Analysis
+- Net Profit
+- KPI Tracking
+- Financial Trends
 
 ## Tools Used
 - Python
-- Google Colab / Jupyter Notebook
 - Pandas
 - Matplotlib
-- Financial Dataset
+- Jupyter Notebook / Google Colab
 
 ## Project Files
-- `financial_dashboard.ipynb` → Main Python notebook
-- `Monthly data.png` → Dashboard overview
-- `Monthly revenue vs Expense.png` → Revenue and expense comparison
-- `Monthly Net profit.png` → Net profit analysis
-- `expense category Breakdown.png` → Expense analysis
-- `kpi keys.png` → KPI metrics visualization
+- `financial_dashboard.ipynb`
+- Dashboard images
 
 ## How to View
-1. Clone or download this repository
+1. Download repository
 2. Open `financial_dashboard.ipynb`
-3. Run all notebook cells
-4. View generated dashboard charts
+3. Run notebook
+4. View dashboard outputs
 
 ## Author
 **Haviprishiya R**  
